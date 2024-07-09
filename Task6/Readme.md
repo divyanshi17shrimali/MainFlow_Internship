@@ -5,10 +5,8 @@
 ### NumPy
 * Fundamental package for numerical computing with support for large arrays and matrices.
 
-### Scikit-learn (sklearn.preprocessing.StandardScaler)
+### Scikit-learn 
 * Library for machine learning in Python, offering tools for data preprocessing such as StandardScaler for feature scaling.
-
-### Scikit-learn (sklearn.cluster.KMeans)
 * Provides implementation of the K-means clustering algorithm for unsupervised learning tasks.
 
 ### Matplotlib.pyplot 
