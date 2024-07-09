@@ -1,7 +1,7 @@
 
 ## Task 1:  Manipulating Data Structures in Python
 
-Performed operations on List, dictionary and sets.
+Performed operations on List, dictionary and tuples.
 
 ## Task 2: Data Manipulation with Pandas
 ### Description:
