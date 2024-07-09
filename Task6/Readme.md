@@ -19,8 +19,6 @@
 
 ### NLTK 
 * Natural Language Toolkit for Python, providing tools for sentiment analysis using VADER.
-
-### NLTK 
 * Suite of libraries and programs for natural language processing tasks in Python.
 
 ## Key Learnings:
